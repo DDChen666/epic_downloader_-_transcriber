@@ -6,7 +6,13 @@
 
 在使用 Gemini 轉錄器之前，您需要配置環境變數：
 
-### 方法1：創建 `.env` 文件（推薦）
+### 方法1：使用設置腳本（最簡單）
+```bash
+# 運行互動式設置腳本
+./setup_env.sh
+```
+
+### 方法2：手動創建 `.env` 文件
 ```bash
 # 複製範本
 cp .env.example .env
@@ -15,7 +21,7 @@ cp .env.example .env
 GEMINI_API_KEY=您的真實API金鑰
 ```
 
-### 方法2：設置系統環境變數
+### 方法3：設置系統環境變數
 ```bash
 export GEMINI_API_KEY="您的真實API金鑰"
 ```
