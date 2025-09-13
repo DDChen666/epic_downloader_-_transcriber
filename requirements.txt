@@ -1,0 +1,27 @@
+# 媒體下載器依賴列表
+# 注意：此程序主要依賴外部命令行工具，需要手動安裝
+
+# yt-dlp - 媒體下載工具
+# 安裝方式：
+# pip install yt-dlp
+# 或 macOS: brew install yt-dlp
+
+# ffmpeg - 音頻/視頻處理工具
+# 安裝方式：
+# macOS: brew install ffmpeg
+# Ubuntu/Debian: sudo apt install ffmpeg
+# Windows: 下載並添加到PATH
+
+# Python 標準庫依賴（已包含在Python中）：
+# - os, re, json, subprocess, shutil, pathlib, logging, urllib.parse, typing
+
+# Whisper 轉錄依賴
+mlx-whisper>=0.4.0  # MLX Whisper 音頻轉錄工具
+
+# Gemini 轉錄依賴
+google-genai>=1.0.0  # Google Gemini API 客戶端
+python-dotenv>=1.0.0  # 環境變數管理
+
+# 可選依賴（如果需要擴展功能）：
+# requests>=2.25.0  # 如果需要HTTP請求功能
+# tqdm>=4.50.0     # 如果需要進度條

@@ -1,0 +1,15 @@
+# 媒體下載列表 - 每行一個鏈接，python3 media_downloader.py , python3 whisper_transcrbe.py ,python3 gemini_transcribe.py
+# 支持的平台: YouTube, Apple Podcasts, Spotify, SoundCloud, Vimeo, Bilibili, Twitch等
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000566053023
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000566061641
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000566924052
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000566932587
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000570905336
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000570905404
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000571638409
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000571638410
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000579760781
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000579768046
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000602730279
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000602736512
+https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%AC%9B-tech-job-n-talk/id1597538298?i=1000547262807
