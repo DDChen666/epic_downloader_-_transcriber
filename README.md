@@ -2,6 +2,26 @@
 
 一個功能完整的Python程序套件，用於下載多種媒體格式、自動轉碼，以及使用AI進行音頻轉錄。
 
+## ⚠️ 重要提醒：環境變數配置
+
+在使用 Gemini 轉錄器之前，您需要配置環境變數：
+
+### 方法1：創建 `.env` 文件（推薦）
+```bash
+# 複製範本
+cp .env.example .env
+
+# 編輯 .env 文件，將 your_gemini_api_key_here 替換為您的真實 API 金鑰
+GEMINI_API_KEY=您的真實API金鑰
+```
+
+### 方法2：設置系統環境變數
+```bash
+export GEMINI_API_KEY="您的真實API金鑰"
+```
+
+**詳細配置指南請參閱 `.env.readme.md` 文件**
+
 ## 功能特點
 
 ### 📥 媒體下載器 (Media Downloader)
